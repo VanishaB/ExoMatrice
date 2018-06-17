@@ -36,7 +36,7 @@ html body{
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  border: 2px solid purple;
+  /**border: 2px solid purple;**/
     border-radius: 2%;
   width : 380px;
   height: 380px;
